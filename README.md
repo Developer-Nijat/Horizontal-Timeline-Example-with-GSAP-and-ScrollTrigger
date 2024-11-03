@@ -1,5 +1,7 @@
 # React + Vite | Horizontal Timeline Example with GSAP and ScrollTrigger
 
+![alt text](public/HorizontalTimelineExamplewithGSAPandScrollTrigger.gif)
+
 GSAP allows you to effortlessly animate anything JS can touch.
 Delivering silky-smooth performance and unmatched support so you can
 focus on the fun stuff
